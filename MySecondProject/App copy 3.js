@@ -14,7 +14,8 @@ export default function HannahApp() {
       </Text>
       <TextInput
       style={
-        {height:40, borderColor:"purple",
+        {height:40, 
+          borderColor:"purple",
       borderWidth:1}
       }
       />

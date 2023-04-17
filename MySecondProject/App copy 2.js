@@ -11,9 +11,10 @@ export default function HannahApp() {
     <Text>
        {"\n\n\n\n\n\n"}
       Hello im a student in cis 340{"\n"}
-      My full name is {getFullName("Hannah","Elisabeth","Friebel")}{"\n"}
+      My full name is {getFullName("Hannah","Elisabeth","Friebel")} {"\n"}
       I have a {pet}!
       </Text>
+     
      
     
   );
